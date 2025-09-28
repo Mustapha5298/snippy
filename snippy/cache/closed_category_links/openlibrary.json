@@ -1,0 +1,8 @@
+{
+    "name": "Open Library InActive List",
+    "description": "Contains inactive cached library links that contains no any results when open",
+    "date_updated": "",
+    "main_source": "https://openlibrary.org/",
+    "total_subjects": 0,
+    "subjects": []
+}

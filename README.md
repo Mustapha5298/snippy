@@ -1,2 +1,2 @@
-# snippy
-A Book scraping bot that ables to give you alot of data, but be cautious as may result this a banning of your ip.
+# project-search
+Project Search is the code name for the search engine project in development for partial requirement of natural language processing.
