@@ -41,9 +41,10 @@ def seek_checkup(headless: bool = True) -> None:
 
     return result
 
+# * ------------------------------------------------------ OPEN LIBRARY ----------------------------------------------------- * #
 
 def seek_openlibrary(online: bool = True, headless: bool = True, total_books: int = 50, total_subject: int = 200, total_tabs: int = 3) -> List:
-    """ Scrapes ocean of pdf, it will take longer time """
+    """ Scrapes open library full range, it will take longer time """
     if online:
         result: List = ocean_of_pdf.validate_openlibrary(
             agent = generate_agent(),
@@ -63,11 +64,42 @@ def seek_openlibrary(online: bool = True, headless: bool = True, total_books: in
 
         if result:
             print("[ Snippy ] Sucessfully take snippy scraped Open Library data. 🥳🎉")
+
         else:
             print("[ Snippy ] Snippy scraped Open Library did not complete. 😐✌️")
 
     return result
 
+
+def seek_openlibrary_book_list(link: str | List[str], online: bool = True) -> List:
+    """ Scrape open library book list page range or area """
+    pass
+
+
+def seek_openlibrary_book(link: str | List[str], online: bool = True) -> Dict | List:
+    """ Scrape open library book page range or area """
+    pass
+
+# * ------------------------------------------------------ ------------ ----------------------------------------------------- * #
+
+
+
+# * ---------------------------------------------------- BARNES & NOBLES ---------------------------------------------------- * #
+
+def seek_barnesnobles(online: bool = True, headless: bool = True, total_books: int = 50, total_subject: int = 200, total_tabs: int = 3) -> List:
+    """ Scrape barnes and nobles full range, it will take longer time """
+
+
+def seek_barnesnobles_book_list(link: str | List[str], online: bool = True) -> List:
+    """ Scrape barnes and nobles book list page """
+    pass
+
+
+def seek_barnesnobles_book(link: str | List[str], online: bool = True) -> Dict | List:
+    """ Scrape barnes and nobles book details page """
+    pass
+
+# * ---------------------------------------------------- --------------- ---------------------------------------------------- * #
 
 
 if __name__ == "__main__":
