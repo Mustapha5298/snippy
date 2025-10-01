@@ -27,10 +27,10 @@ class OpenLibraryController:
         if "user_agent" not in agent or "headers" not in agent:
             raise KeyError("[ Snippy ] Agent dictionary must include both 'user_agent' and 'headers' keys.")
         
-        closed_category: str = "snippy/cache/closed_category_links/openlibrary.json"
+        closed_category: str = "snippy/cache/openlibrary/closed_category_links/openlibrary.json"
 
-        open_category: str = "snippy/cache/open_category_links/openlibrary.json"
-        open_category_book: str = "snippy/cache/open_category_links/openlibrary_books.json"
+        open_category: str = "snippy/cache/openlibrary/open_category_links/openlibrary.json"
+        open_category_book: str = "snippy/cache/openlibrary/open_category_links/openlibrary_books.json"
 
         if self.file_manager.is_file_exist(closed_category) and self.file_manager.is_file_exist(open_category) and self.file_manager.is_file_exist(open_category_book):
             block_list: Dict = self.file_manager.load_json(closed_category)
