@@ -180,7 +180,7 @@ class OpenLibraryHelper:
         open_list["total_subjects"] = len(open_list["subjects"])
         open_list["date_updated"] = datetime.today().strftime('%Y-%m-%d')
 
-        self.file_manager.save_json("snippy/cache/open_category_links/openlibrary.json", open_list)
+        self.file_manager.save_json("snippy/cache/openlibrary/open_category_links/openlibrary.json", open_list)
 
         self.parent.open_category = open_list
 
@@ -241,7 +241,7 @@ class OpenLibraryHelper:
         self.parent.open_category_book["total_book_not_scraped"] = sum(1 for book in self.parent.open_category_book["books"] if book.get("is_scraped") is False)
         self.parent.open_category_book["total_book_links"] = len(self.parent.open_category_book["books"])
 
-        self.file_manager.save_json("snippy/cache/open_category_links/openlibrary_books.json", self.parent.open_category_book)
+        self.file_manager.save_json("snippy/cache/openlibrary/open_category_links/openlibrary_books.json", self.parent.open_category_book)
 
         await page.close()
         return self.parent.open_category_book["books"]
