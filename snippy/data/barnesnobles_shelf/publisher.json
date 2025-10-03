@@ -1,0 +1,281 @@
+{
+    "data_title": "publisher Data Sets",
+    "total_publishers": 55,
+    "publishers": [
+        {
+            "_id": "PUB-627F00F53",
+            "name": "St. Martin's Publishing Group",
+            "url": "https://www.barnesandnoble.com/s/%22St.+Martin%27s+Publishing+Group%22;jsessionid=DF1A3A910BC4786C9ACF47BCF9D80CA7.prodny_store02-va17?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-35C54CA93",
+            "name": "Hay House Inc.",
+            "url": "https://www.barnesandnoble.com/s/%22Hay+House+Inc.%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-7C7132192",
+            "name": "HarperCollins",
+            "url": "https://www.barnesandnoble.com/s/%22HarperCollins%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-FD7F5EEBF",
+            "name": "Zando",
+            "url": "https://www.barnesandnoble.com/s/%22Zando%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-E30F2F700",
+            "name": "Scholastic, Inc.",
+            "url": "https://www.barnesandnoble.com/s/%22Scholastic%2C+Inc.%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-629D94F0D",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Knopf+Doubleday+Publishing+Group%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-6E438872A",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Little%2C+Brown+and+Company%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-541114D2C3",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Soho+Press%2C+Incorporated%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-8822101EDC",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Random+House+Worlds%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-4FAC79F54",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Bloomsbury+USA%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-9E1713FED4",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Crown+Publishing+Group%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-52D9192D18",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Holt%2C+Henry+%26+Company%2C+Inc.%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-D65B116D36",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Simon+%26+Schuster%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-CBB815D312",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Disney+Publishing+Group%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-A88512E04E",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Grand+Central+Publishing%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-3D48244620",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22St.+Martin%27s+Publishing+Group%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-BB2C168DA0",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Gallery+Books%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-3A4B2072F9",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Penguin+Publishing+Group%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-1CF317327F",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22VIZ+Media+LLC%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-D3D3290057",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22HarperCollins+Publishers%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-360821F927",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Sourcebooks%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-F00028359B",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Random+House+Publishing+Group%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-3727330814",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Simon+%26+Schuster+Books+For+Young+Readers%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-7EEF348B34",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Little%2C+Brown+Books+for+Young+Readers%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-5EA1391955",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Tor+Publishing+Group%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-7A76384143",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Grove+Atlantic%2C+Inc.%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-535F325E9F",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Penguin+Young+Readers+Group%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-48A9442AB7",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Scribner%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-A86A36CC2D",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22S%26S++Marysue+Rucci+Books%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-7F4149C019",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Workman+Publishing+Company%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-8C3940AED6",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Norton%2C+W.+W.+%26+Company%2C+Inc.%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-D55046EC68",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Liveright+Publishing+Corporation%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-801B45957C",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Running+Press+Book+Publishers%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-C9FD520881",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Random+House+Children%27s+Books%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-9125539B34",
+            "name": "Aladdin",
+            "url": "https://www.barnesandnoble.com/s/%22Aladdin%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-0CD751DC01",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Margaret+K.+McElderry+Books%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-F89D64C564",
+            "name": "Page Street Publishing",
+            "url": "https://www.barnesandnoble.com/s/%22Page+Street+Publishing%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-2E95624511",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Farrar%2C+Straus+and+Giroux%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-25C16797FB",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Diversified+Publishing%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-047D741704",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22S%26S+Saga+Press%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-201665A6C7",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Amulet+Books%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-4353689B2E",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Orbit%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-DAB9717F43",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Hanover+Square+Press%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-2AD976DE7D",
+            "name": "Europa Editions, Incorporated",
+            "url": "https://www.barnesandnoble.com/s/%22Europa+Editions%2C+Incorporated%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-A9A1890201",
+            "name": "JG Publishing",
+            "url": "https://www.barnesandnoble.com/s/%22JG+Publishing%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-4191830C6C",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Celadon+Books%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-AC298509B3",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Flatiron+Books%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-BE85903971",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Atria+Books%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-6EF1992B79",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22DoppelHouse+Press%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-CF8E102CF27",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Steerforth+Press%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-FF031046489",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Candlewick+Press%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-F3BD101A7B7",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Transit+Books%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-70F2110B8D9",
+            "name": "",
+            "url": "https://www.barnesandnoble.com/s/%22Blackstone+Publishing%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-C3891169CEE",
+            "name": "Macmillan Audio",
+            "url": "https://www.barnesandnoble.com/s/%22Macmillan+Audio%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        },
+        {
+            "_id": "PUB-D3A8125E351",
+            "name": "Feiwel & Friends",
+            "url": "https://www.barnesandnoble.com/s/%22Feiwel+%26+Friends%22?Ntk=Publisher&Ns=P_Sales_Rank&Ntx=mode+matchall"
+        }
+    ]
+}

@@ -1,0 +1,2026 @@
+{
+    "name": "Barnes and Nobles Book List",
+    "description": "Contais book meta datas",
+    "date_updated": "2025-09-28",
+    "main_source": "https://www.barnesandnoble.com/",
+    "total_books": 128,
+    "books": [
+        {
+            "book_id": "BOOK-499B05895",
+            "book_author_id": "AUTHOR-9DF00728F",
+            "book_categories_id": [
+                "CAT-E83C02017",
+                "CAT-FA9001921",
+                "CAT-2A290A793",
+                "CAT-4B6F08205",
+                "CAT-CDC40B516",
+                "CAT-856F0A1F2",
+                "CAT-25400103D",
+                "CAT-3EAF08583"
+            ],
+            "book_publisher_id": "PUB-627F00F53"
+        },
+        {
+            "book_id": "BOOK-1A314A409",
+            "book_author_id": "AUTHOR-74D345CC5",
+            "book_categories_id": [
+                "CAT-9C454FF7B",
+                "CAT-A80E408B6",
+                "CAT-088849DFE",
+                "CAT-5E13433CB",
+                "CAT-32F04C510",
+                "CAT-1C2F48139",
+                "CAT-044C4D933",
+                "CAT-220B4CE7C"
+            ],
+            "book_publisher_id": "PUB-35C54CA93"
+        },
+        {
+            "book_id": "BOOK-F0D0170C8",
+            "book_author_id": "AUTHOR-F24414C1F",
+            "book_categories_id": [],
+            "book_publisher_id": null
+        },
+        {
+            "book_id": "BOOK-1C9C305FA",
+            "book_author_id": "AUTHOR-2D5437D09",
+            "book_categories_id": [
+                "CAT-0FF6301F2",
+                "CAT-7A0B3914A",
+                "CAT-C3B73D9AC",
+                "CAT-181B3148E"
+            ],
+            "book_publisher_id": "PUB-7C7132192"
+        },
+        {
+            "book_id": "BOOK-1A6A590F3",
+            "book_author_id": "AUTHOR-8F9854E2B",
+            "book_categories_id": [
+                "CAT-E0195B4E0",
+                "CAT-677050CEF",
+                "CAT-1AFA57589",
+                "CAT-162B58898",
+                "CAT-E10A507A5",
+                "CAT-41A151102",
+                "CAT-0145598FA",
+                "CAT-E3415E3C8",
+                "CAT-DEAC51E21"
+            ],
+            "book_publisher_id": "PUB-FD7F5EEBF"
+        },
+        {
+            "book_id": "BOOK-010E29A29",
+            "book_author_id": "AUTHOR-0D0829110",
+            "book_categories_id": [
+                "CAT-36492E036",
+                "CAT-122B2C736",
+                "CAT-4A1122F50",
+                "CAT-C7BE2EA47",
+                "CAT-E51125A0E",
+                "CAT-1AAE23DBB",
+                "CAT-C907231C1"
+            ],
+            "book_publisher_id": "PUB-E30F2F700"
+        },
+        {
+            "book_id": "BOOK-F25399E36",
+            "book_author_id": "AUTHOR-C57092CDA",
+            "book_categories_id": [
+                "CAT-8EA09A606",
+                "CAT-280C9B81D",
+                "CAT-78E19DDE8",
+                "CAT-B9F596DB1",
+                "CAT-D2299AE83"
+            ],
+            "book_publisher_id": "PUB-629D94F0D"
+        },
+        {
+            "book_id": "BOOK-B75981CA7",
+            "book_author_id": "AUTHOR-DA198F61E",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-B25D86A49",
+                "CAT-C3858570D",
+                "CAT-30D68A00E",
+                "CAT-B95589E2B",
+                "CAT-3E7B88D2E",
+                "CAT-F5C18F321",
+                "CAT-D8388EF15",
+                "CAT-53A78ACD1",
+                "CAT-FEA0828D5"
+            ],
+            "book_publisher_id": "PUB-6E438872A"
+        },
+        {
+            "book_id": "BOOK-67A062F22",
+            "book_author_id": "AUTHOR-363C63605",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-2585661E1",
+                "CAT-62BD62D10",
+                "CAT-B25D86A49",
+                "CAT-76AA6B7F7",
+                "CAT-DF1A6E130",
+                "CAT-B95589E2B",
+                "CAT-30D68A00E",
+                "CAT-EAD964041",
+                "CAT-A164670F2",
+                "CAT-C81063BCB",
+                "CAT-8C1C696C0",
+                "CAT-143167E9F",
+                "CAT-984762CE6",
+                "CAT-21A26BFD8",
+                "CAT-D75963C65"
+            ],
+            "book_publisher_id": "PUB-629D94F0D"
+        },
+        {
+            "book_id": "BOOK-80BF148D93",
+            "book_author_id": "AUTHOR-9FED14C8DB",
+            "book_categories_id": [
+                "CAT-8EA09A606",
+                "CAT-280C9B81D",
+                "CAT-658D14CA33"
+            ],
+            "book_publisher_id": "PUB-541114D2C3"
+        },
+        {
+            "book_id": "BOOK-4FF010D8AF",
+            "book_author_id": "AUTHOR-5DCA10EBBC",
+            "book_categories_id": [
+                "CAT-0FF6301F2",
+                "CAT-7A0B3914A",
+                "CAT-C3B73D9AC"
+            ],
+            "book_publisher_id": "PUB-8822101EDC"
+        },
+        {
+            "book_id": "BOOK-33B67D0A2",
+            "book_author_id": "AUTHOR-09E57A422",
+            "book_categories_id": [
+                "CAT-77A47AE4D",
+                "CAT-C9A975510",
+                "CAT-032273A9A",
+                "CAT-DB2A7DB22",
+                "CAT-5C1879A33",
+                "CAT-8BF37A889"
+            ],
+            "book_publisher_id": "PUB-4FAC79F54"
+        },
+        {
+            "book_id": "BOOK-D91713259D",
+            "book_author_id": "AUTHOR-F1FA1397A1",
+            "book_categories_id": [
+                "CAT-E0195B4E0",
+                "CAT-4C2C8F94A",
+                "CAT-677050CEF",
+                "CAT-162B58898",
+                "CAT-3E7B88D2E",
+                "CAT-E10A507A5",
+                "CAT-E3415E3C8",
+                "CAT-9C461360F2"
+            ],
+            "book_publisher_id": "PUB-9E1713FED4"
+        },
+        {
+            "book_id": "BOOK-8917195138",
+            "book_author_id": "AUTHOR-86D1191624",
+            "book_categories_id": [
+                "CAT-2585661E1",
+                "CAT-4C2C8F94A",
+                "CAT-B25D86A49",
+                "CAT-34251998E8",
+                "CAT-B95589E2B",
+                "CAT-2E27197AE5",
+                "CAT-669B19981E",
+                "CAT-3E7B88D2E",
+                "CAT-C87D19BA17",
+                "CAT-54C119E1E9",
+                "CAT-7E54194350",
+                "CAT-B28219120A",
+                "CAT-68CD1973C4",
+                "CAT-2CA1198AFF",
+                "CAT-886E190996"
+            ],
+            "book_publisher_id": "PUB-52D9192D18"
+        },
+        {
+            "book_id": "BOOK-44BB11F5A3",
+            "book_author_id": "AUTHOR-15A711B1EF",
+            "book_categories_id": [
+                "CAT-23C011389A",
+                "CAT-ED14111E51",
+                "CAT-2CD3115069",
+                "CAT-3944113AB1",
+                "CAT-EB7611BC31",
+                "CAT-80411148E6",
+                "CAT-088E116031",
+                "CAT-2B4F11B2D6",
+                "CAT-30CF119C1B",
+                "CAT-8DEE110428",
+                "CAT-B74B1195FD"
+            ],
+            "book_publisher_id": "PUB-D65B116D36"
+        },
+        {
+            "book_id": "BOOK-9E5A1821A9",
+            "book_author_id": "AUTHOR-161918343A",
+            "book_categories_id": [],
+            "book_publisher_id": null
+        },
+        {
+            "book_id": "BOOK-7D3B150EAC",
+            "book_author_id": "AUTHOR-104215E4AF",
+            "book_categories_id": [
+                "CAT-0FF6301F2",
+                "CAT-4C2C8F94A",
+                "CAT-DB6A151E1B",
+                "CAT-8E6F155F09",
+                "CAT-5F801582B2",
+                "CAT-E35815A1EC",
+                "CAT-C2741538ED"
+            ],
+            "book_publisher_id": "PUB-CBB815D312"
+        },
+        {
+            "book_id": "BOOK-337E12BADD",
+            "book_author_id": "AUTHOR-22B312DDB9",
+            "book_categories_id": [
+                "CAT-2585661E1",
+                "CAT-8EA09A606",
+                "CAT-280C9B81D",
+                "CAT-023B1239A2",
+                "CAT-3CE612C4C1",
+                "CAT-0FAA12CD0F",
+                "CAT-CE7D12F869"
+            ],
+            "book_publisher_id": "PUB-A88512E04E"
+        },
+        {
+            "book_id": "BOOK-D65624B943",
+            "book_author_id": "AUTHOR-F47D24754B",
+            "book_categories_id": [
+                "CAT-E0195B4E0",
+                "CAT-677050CEF",
+                "CAT-162B58898",
+                "CAT-C8A524C133",
+                "CAT-E3415E3C8"
+            ],
+            "book_publisher_id": "PUB-3D48244620"
+        },
+        {
+            "book_id": "BOOK-E8DF1605D7",
+            "book_author_id": "AUTHOR-C48B164099",
+            "book_categories_id": [
+                "CAT-E38916154B",
+                "CAT-3FA716ED05",
+                "CAT-B50316140E",
+                "CAT-9657160E91"
+            ],
+            "book_publisher_id": "PUB-BB2C168DA0"
+        },
+        {
+            "book_id": "BOOK-C25423C3A1",
+            "book_author_id": "AUTHOR-47A8237B26",
+            "book_categories_id": [
+                "CAT-E0195B4E0",
+                "CAT-4C2C8F94A",
+                "CAT-B25D86A49",
+                "CAT-677050CEF",
+                "CAT-162B58898",
+                "CAT-C3858570D",
+                "CAT-3E7B88D2E",
+                "CAT-194D239A44",
+                "CAT-C8A524C133",
+                "CAT-E3415E3C8",
+                "CAT-34B323D3B0",
+                "CAT-FEA0828D5"
+            ],
+            "book_publisher_id": "PUB-7C7132192"
+        },
+        {
+            "book_id": "BOOK-EC7D2070C3",
+            "book_author_id": "AUTHOR-86B020438E",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-62BD62D10",
+                "CAT-7E0620907D",
+                "CAT-A521201140",
+                "CAT-E7D620EB60"
+            ],
+            "book_publisher_id": "PUB-3A4B2072F9"
+        },
+        {
+            "book_id": "BOOK-CC1B171DC7",
+            "book_author_id": "AUTHOR-59A7176642",
+            "book_categories_id": [
+                "CAT-DBFE17385C",
+                "CAT-077B17A56D",
+                "CAT-E3A517EA5B"
+            ],
+            "book_publisher_id": "PUB-1CF317327F"
+        },
+        {
+            "book_id": "BOOK-EADD299F14",
+            "book_author_id": "AUTHOR-267F29A124",
+            "book_categories_id": [
+                "CAT-E0195B4E0",
+                "CAT-677050CEF",
+                "CAT-735D29B8BD",
+                "CAT-E40429CFB7"
+            ],
+            "book_publisher_id": "PUB-D3D3290057"
+        },
+        {
+            "book_id": "BOOK-D8DC212E6D",
+            "book_author_id": "AUTHOR-F96B211F61",
+            "book_categories_id": [
+                "CAT-E0195B4E0",
+                "CAT-677050CEF",
+                "CAT-162B58898",
+                "CAT-E10A507A5",
+                "CAT-E3415E3C8",
+                "CAT-735D29B8BD"
+            ],
+            "book_publisher_id": "PUB-360821F927"
+        },
+        {
+            "book_id": "BOOK-585328A8A4",
+            "book_author_id": "AUTHOR-4AF028F2CA",
+            "book_categories_id": [
+                "CAT-E0195B4E0",
+                "CAT-4C2C8F94A",
+                "CAT-1AFA57589",
+                "CAT-677050CEF",
+                "CAT-3E7B88D2E",
+                "CAT-0145598FA",
+                "CAT-735D29B8BD",
+                "CAT-FEA0828D5"
+            ],
+            "book_publisher_id": "PUB-F00028359B"
+        },
+        {
+            "book_id": "BOOK-FAD5253EAE",
+            "book_author_id": "AUTHOR-2D83256209",
+            "book_categories_id": [
+                "CAT-E0195B4E0",
+                "CAT-677050CEF",
+                "CAT-162B58898",
+                "CAT-E10A507A5",
+                "CAT-2EF725A471"
+            ],
+            "book_publisher_id": "PUB-F00028359B"
+        },
+        {
+            "book_id": "BOOK-C79D22E4F6",
+            "book_author_id": "AUTHOR-6185223FA8",
+            "book_categories_id": [
+                "CAT-E0195B4E0",
+                "CAT-677050CEF",
+                "CAT-C8A524C133"
+            ],
+            "book_publisher_id": "PUB-360821F927"
+        },
+        {
+            "book_id": "BOOK-9BD1262CC5",
+            "book_author_id": "AUTHOR-3052267D1F",
+            "book_categories_id": [
+                "CAT-E0195B4E0",
+                "CAT-677050CEF",
+                "CAT-1AFA57589",
+                "CAT-162B58898",
+                "CAT-C8A524C133",
+                "CAT-BAB8265201",
+                "CAT-E3415E3C8"
+            ],
+            "book_publisher_id": "PUB-3A4B2072F9"
+        },
+        {
+            "book_id": "BOOK-0579335E83",
+            "book_author_id": "AUTHOR-AEA9334720",
+            "book_categories_id": [
+                "CAT-36492E036",
+                "CAT-122B2C736",
+                "CAT-4A1122F50",
+                "CAT-4DB2335281",
+                "CAT-C7BE2EA47",
+                "CAT-15D83300D4",
+                "CAT-E51125A0E",
+                "CAT-6ABF33F958",
+                "CAT-B92C33EC67"
+            ],
+            "book_publisher_id": "PUB-3727330814"
+        },
+        {
+            "book_id": "BOOK-FD1A3420E4",
+            "book_author_id": "AUTHOR-071D343751",
+            "book_categories_id": [
+                "CAT-36492E036",
+                "CAT-122B2C736",
+                "CAT-62C234BC5A",
+                "CAT-6B59349D8D",
+                "CAT-C7BE2EA47",
+                "CAT-AE93341605",
+                "CAT-88CE34776D",
+                "CAT-A2E434CBE4",
+                "CAT-B832346429",
+                "CAT-B52D34F207",
+                "CAT-3F2C34145F"
+            ],
+            "book_publisher_id": "PUB-7EEF348B34"
+        },
+        {
+            "book_id": "BOOK-698F270AD1",
+            "book_author_id": "AUTHOR-EDDC27F33E",
+            "book_categories_id": [
+                "CAT-E0195B4E0",
+                "CAT-677050CEF",
+                "CAT-C8A524C133"
+            ],
+            "book_publisher_id": "PUB-D3D3290057"
+        },
+        {
+            "book_id": "BOOK-9B5230245F",
+            "book_author_id": "AUTHOR-EA4830B2E6",
+            "book_categories_id": [
+                "CAT-E0195B4E0",
+                "CAT-A03930EE76",
+                "CAT-913630C4D8"
+            ],
+            "book_publisher_id": "PUB-3A4B2072F9"
+        },
+        {
+            "book_id": "BOOK-D4B8318A40",
+            "book_author_id": "AUTHOR-E472310184",
+            "book_categories_id": [
+                "CAT-8EA09A606",
+                "CAT-A67B31A91D",
+                "CAT-A68D312384",
+                "CAT-805E31BF1E",
+                "CAT-CD483148CB",
+                "CAT-A7543189E1"
+            ],
+            "book_publisher_id": "PUB-3A4B2072F9"
+        },
+        {
+            "book_id": "BOOK-B88F39DA56",
+            "book_author_id": "AUTHOR-0D7839595D",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-1C7939C82B",
+                "CAT-7D0539B290"
+            ],
+            "book_publisher_id": "PUB-5EA1391955"
+        },
+        {
+            "book_id": "BOOK-CB83385D5B",
+            "book_author_id": "AUTHOR-7FA638EC7F",
+            "book_categories_id": [
+                "CAT-2585661E1",
+                "CAT-4C2C8F94A",
+                "CAT-62BD62D10",
+                "CAT-34C638C2A1",
+                "CAT-B25D86A49",
+                "CAT-7E0620907D",
+                "CAT-CC7138AFB4",
+                "CAT-96003807DC",
+                "CAT-B95589E2B",
+                "CAT-2929383CD9",
+                "CAT-8C1C696C0",
+                "CAT-BEE4381AE0",
+                "CAT-B836380D38"
+            ],
+            "book_publisher_id": "PUB-7A76384143"
+        },
+        {
+            "book_id": "BOOK-9EE132D4AA",
+            "book_author_id": "AUTHOR-15D6322DD7",
+            "book_categories_id": [
+                "CAT-36492E036",
+                "CAT-122B2C736",
+                "CAT-4A1122F50",
+                "CAT-EF7C328A08",
+                "CAT-C7BE2EA47",
+                "CAT-E51125A0E",
+                "CAT-D39B32B1E5",
+                "CAT-C907231C1"
+            ],
+            "book_publisher_id": "PUB-535F325E9F"
+        },
+        {
+            "book_id": "BOOK-A33F354BC0",
+            "book_author_id": "AUTHOR-F82D350A08",
+            "book_categories_id": [
+                "CAT-8EA09A606",
+                "CAT-A67B31A91D",
+                "CAT-A4A735DC66"
+            ],
+            "book_publisher_id": "PUB-360821F927"
+        },
+        {
+            "book_id": "BOOK-20A04471CB",
+            "book_author_id": "AUTHOR-DB6B44144D",
+            "book_categories_id": [
+                "CAT-AE3A442546",
+                "CAT-D99C44B162",
+                "CAT-F32E4448B6",
+                "CAT-45BB44270E",
+                "CAT-6BE344F984",
+                "CAT-DF22446018",
+                "CAT-D949447ED4",
+                "CAT-B99944E8EE"
+            ],
+            "book_publisher_id": "PUB-48A9442AB7"
+        },
+        {
+            "book_id": "BOOK-0685364F79",
+            "book_author_id": "AUTHOR-6732364562",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-62BD62D10",
+                "CAT-B25D86A49",
+                "CAT-76AA6B7F7",
+                "CAT-7E0620907D",
+                "CAT-5E663674BD",
+                "CAT-474F36D9C2",
+                "CAT-A8FB36E0E1",
+                "CAT-B7A936EC53",
+                "CAT-5B4E3682A4",
+                "CAT-B0243620A5",
+                "CAT-320336AFD3",
+                "CAT-A32E3633C2"
+            ],
+            "book_publisher_id": "PUB-A86A36CC2D"
+        },
+        {
+            "book_id": "BOOK-9D7E4373AA",
+            "book_author_id": "AUTHOR-FDD143CCFC",
+            "book_categories_id": [
+                "CAT-23C011389A",
+                "CAT-E38916154B",
+                "CAT-CB75432913",
+                "CAT-ACA043D157",
+                "CAT-B6834349E2",
+                "CAT-048C4309E6",
+                "CAT-9E0243E131",
+                "CAT-143043F638",
+                "CAT-3944113AB1",
+                "CAT-1894436A13",
+                "CAT-E6EF43EC4E",
+                "CAT-56F043F57D",
+                "CAT-CE3B43ADDC",
+                "CAT-6B5743F6DC",
+                "CAT-F080430A2A",
+                "CAT-72E843C12C",
+                "CAT-AA8E43FE2F",
+                "CAT-A0084381E1"
+            ],
+            "book_publisher_id": "PUB-A88512E04E"
+        },
+        {
+            "book_id": "BOOK-3C8B37EC2A",
+            "book_author_id": "AUTHOR-A2653759AE",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-422437F73B",
+                "CAT-B015376737",
+                "CAT-E5483725E9"
+            ],
+            "book_publisher_id": "PUB-A88512E04E"
+        },
+        {
+            "book_id": "BOOK-4D0B49B005",
+            "book_author_id": "AUTHOR-1BD049BEDE",
+            "book_categories_id": [
+                "CAT-22674966BE",
+                "CAT-0F3F49782E",
+                "CAT-A1E549367D",
+                "CAT-EDEF49A572",
+                "CAT-DCFC492825",
+                "CAT-F2744956F6",
+                "CAT-D8FA497277"
+            ],
+            "book_publisher_id": "PUB-7F4149C019"
+        },
+        {
+            "book_id": "BOOK-C5EE40518A",
+            "book_author_id": "AUTHOR-644640AAF9",
+            "book_categories_id": [
+                "CAT-8EA09A606",
+                "CAT-280C9B81D",
+                "CAT-658D14CA33"
+            ],
+            "book_publisher_id": "PUB-8C3940AED6"
+        },
+        {
+            "book_id": "BOOK-71DD419AB3",
+            "book_author_id": "AUTHOR-C90B411EFF",
+            "book_categories_id": [
+                "CAT-9C454FF7B",
+                "CAT-D99C44B162",
+                "CAT-A80E408B6",
+                "CAT-9DC8419064",
+                "CAT-DF22446018",
+                "CAT-32F04C510",
+                "CAT-6656416F62",
+                "CAT-B99944E8EE",
+                "CAT-220B4CE7C"
+            ],
+            "book_publisher_id": "PUB-F00028359B"
+        },
+        {
+            "book_id": "BOOK-C581422D8A",
+            "book_author_id": "AUTHOR-77D042A80F",
+            "book_categories_id": [
+                "CAT-22674966BE",
+                "CAT-C02B42BD1E",
+                "CAT-02F9422B95",
+                "CAT-C36242D29B",
+                "CAT-13A0428AB5"
+            ],
+            "book_publisher_id": "PUB-F00028359B"
+        },
+        {
+            "book_id": "BOOK-3CDE5463EC",
+            "book_author_id": "AUTHOR-11695433F4",
+            "book_categories_id": [
+                "CAT-77A47AE4D",
+                "CAT-C9A975510",
+                "CAT-84BE544E46",
+                "CAT-C5895443DF",
+                "CAT-D02A548358",
+                "CAT-1D9B549963",
+                "CAT-DB2A7DB22"
+            ],
+            "book_publisher_id": "PUB-CBB815D312"
+        },
+        {
+            "book_id": "BOOK-33064882C9",
+            "book_author_id": "AUTHOR-B420482CD7",
+            "book_categories_id": [
+                "CAT-23C011389A",
+                "CAT-42DF48A7C0",
+                "CAT-E38916154B",
+                "CAT-D69F48461C",
+                "CAT-CB75432913",
+                "CAT-C616486706",
+                "CAT-7D6348C058",
+                "CAT-8EAD48523C",
+                "CAT-046048A518",
+                "CAT-B6834349E2",
+                "CAT-143043F638",
+                "CAT-E3C548B11E",
+                "CAT-048C4309E6",
+                "CAT-ACA043D157",
+                "CAT-E45848643B",
+                "CAT-974C483C63",
+                "CAT-FAAC481E70",
+                "CAT-B2D04865EE",
+                "CAT-940648B25C",
+                "CAT-CE3B43ADDC",
+                "CAT-8E5F4800DF",
+                "CAT-72E843C12C",
+                "CAT-201D48E9E3",
+                "CAT-272748E10D",
+                "CAT-AA8E43FE2F",
+                "CAT-1A274804E2",
+                "CAT-86C4487650"
+            ],
+            "book_publisher_id": "PUB-7C7132192"
+        },
+        {
+            "book_id": "BOOK-73574692CE",
+            "book_author_id": "AUTHOR-1C7D46C003",
+            "book_categories_id": [
+                "CAT-5D6246C4FA",
+                "CAT-C41546150B",
+                "CAT-ED14111E51",
+                "CAT-271A469C2D",
+                "CAT-67C846931E",
+                "CAT-2D2D46FF06",
+                "CAT-EB7611BC31",
+                "CAT-A7704623EF",
+                "CAT-903D4632F3",
+                "CAT-F1FC462C34",
+                "CAT-32E946427D",
+                "CAT-195B460395",
+                "CAT-318346585F",
+                "CAT-5B5C464786",
+                "CAT-C5B54629D1",
+                "CAT-175446F24E",
+                "CAT-B667462454",
+                "CAT-234A46C5C4"
+            ],
+            "book_publisher_id": "PUB-D55046EC68"
+        },
+        {
+            "book_id": "BOOK-945147E4DD",
+            "book_author_id": "AUTHOR-D8E247D3A0",
+            "book_categories_id": [
+                "CAT-ED14111E51",
+                "CAT-5D6246C4FA",
+                "CAT-50A8470738",
+                "CAT-271A469C2D",
+                "CAT-8583477E83",
+                "CAT-32E946427D",
+                "CAT-B054473A4A",
+                "CAT-E8DC4770F8",
+                "CAT-B0C547B30F"
+            ],
+            "book_publisher_id": "PUB-D65B116D36"
+        },
+        {
+            "book_id": "BOOK-11CE452A49",
+            "book_author_id": "AUTHOR-F0CA459C96",
+            "book_categories_id": [
+                "CAT-22674966BE",
+                "CAT-E38916154B",
+                "CAT-F32E4448B6",
+                "CAT-E42F4546EF",
+                "CAT-CB75432913",
+                "CAT-D05945CD24",
+                "CAT-775E455734",
+                "CAT-28994509B3",
+                "CAT-89E94581A8",
+                "CAT-6BE344F984",
+                "CAT-744F4556A8",
+                "CAT-CB5645942A",
+                "CAT-837B4539E3",
+                "CAT-15FF45AB4B",
+                "CAT-490D45F291",
+                "CAT-1133452769",
+                "CAT-148F459511",
+                "CAT-008145E6F1",
+                "CAT-8E8B452BDC",
+                "CAT-183145E081",
+                "CAT-C897450F9D",
+                "CAT-0364455D52",
+                "CAT-568D45E3A0"
+            ],
+            "book_publisher_id": "PUB-801B45957C"
+        },
+        {
+            "book_id": "BOOK-39BE59AFE1",
+            "book_author_id": "AUTHOR-BEB759E4B7",
+            "book_categories_id": [
+                "CAT-36492E036",
+                "CAT-122B2C736",
+                "CAT-AE93341605",
+                "CAT-6B59349D8D",
+                "CAT-C7BE2EA47",
+                "CAT-F8E059F475",
+                "CAT-D38E59A861",
+                "CAT-E85B5972B2",
+                "CAT-B832346429",
+                "CAT-F8B3594923",
+                "CAT-B52D34F207",
+                "CAT-BA8F596CF1"
+            ],
+            "book_publisher_id": "PUB-7EEF348B34"
+        },
+        {
+            "book_id": "BOOK-C0C352C036",
+            "book_author_id": "AUTHOR-02F852A9A3",
+            "book_categories_id": [
+                "CAT-77A47AE4D",
+                "CAT-C9A975510",
+                "CAT-480D520C23",
+                "CAT-D9A85224EC",
+                "CAT-790E52A5F9",
+                "CAT-5C1879A33",
+                "CAT-336452E66A"
+            ],
+            "book_publisher_id": "PUB-C9FD520881"
+        },
+        {
+            "book_id": "BOOK-0426536D59",
+            "book_author_id": "AUTHOR-655C53B335",
+            "book_categories_id": [
+                "CAT-334B533768",
+                "CAT-77A47AE4D",
+                "CAT-C9A975510",
+                "CAT-941C534612",
+                "CAT-561053CA38",
+                "CAT-BE0F53A922",
+                "CAT-E178531E9E"
+            ],
+            "book_publisher_id": "PUB-9125539B34"
+        },
+        {
+            "book_id": "BOOK-4AC2510788",
+            "book_author_id": "AUTHOR-21EC5146F7",
+            "book_categories_id": [
+                "CAT-77A47AE4D",
+                "CAT-C9A975510",
+                "CAT-D02A548358",
+                "CAT-4BCC51B949",
+                "CAT-5C1879A33",
+                "CAT-84B951A48C"
+            ],
+            "book_publisher_id": "PUB-0CD751DC01"
+        },
+        {
+            "book_id": "BOOK-FF425743F2",
+            "book_author_id": "AUTHOR-C52957385E",
+            "book_categories_id": [
+                "CAT-77A47AE4D",
+                "CAT-C9A975510",
+                "CAT-4BCC51B949"
+            ],
+            "book_publisher_id": "PUB-C9FD520881"
+        },
+        {
+            "book_id": "BOOK-0E69643AB5",
+            "book_author_id": "AUTHOR-EA1564FD75",
+            "book_categories_id": [
+                "CAT-36492E036",
+                "CAT-122B2C736",
+                "CAT-EDE9643AE5",
+                "CAT-AE93341605",
+                "CAT-C7BE2EA47",
+                "CAT-954F64BD4E",
+                "CAT-981F6457C7",
+                "CAT-81BD648613",
+                "CAT-B52D34F207",
+                "CAT-457264A92F"
+            ],
+            "book_publisher_id": "PUB-F89D64C564"
+        },
+        {
+            "book_id": "BOOK-D34A5070B6",
+            "book_author_id": "AUTHOR-1CA450C2D6",
+            "book_categories_id": [
+                "CAT-77A47AE4D",
+                "CAT-C9A975510",
+                "CAT-480D520C23",
+                "CAT-D02A548358",
+                "CAT-D9A85224EC",
+                "CAT-150850E2EF",
+                "CAT-7C7F5029EB",
+                "CAT-5C1879A33",
+                "CAT-6165508D23",
+                "CAT-336452E66A",
+                "CAT-430A506769"
+            ],
+            "book_publisher_id": "PUB-7EEF348B34"
+        },
+        {
+            "book_id": "BOOK-306C6215AC",
+            "book_author_id": "AUTHOR-EFEF62B795",
+            "book_categories_id": [
+                "CAT-36492E036",
+                "CAT-122B2C736",
+                "CAT-62C234BC5A",
+                "CAT-AE93341605",
+                "CAT-77EB62AAA4",
+                "CAT-E85B5972B2"
+            ],
+            "book_publisher_id": "PUB-2E95624511"
+        },
+        {
+            "book_id": "BOOK-92805851B9",
+            "book_author_id": "AUTHOR-1CD558C7A9",
+            "book_categories_id": [
+                "CAT-77A47AE4D",
+                "CAT-C9A975510",
+                "CAT-480D520C23",
+                "CAT-D02A548358",
+                "CAT-266A58C62C",
+                "CAT-4BCC51B949",
+                "CAT-790E52A5F9",
+                "CAT-5A5258E17A",
+                "CAT-4D7E588F61"
+            ],
+            "book_publisher_id": "PUB-7C7132192"
+        },
+        {
+            "book_id": "BOOK-19E05679D7",
+            "book_author_id": "AUTHOR-FF6256B4D0",
+            "book_categories_id": [
+                "CAT-77A47AE4D",
+                "CAT-C9A975510",
+                "CAT-84BE544E46",
+                "CAT-3FC756CEA3",
+                "CAT-032273A9A",
+                "CAT-D9A85224EC",
+                "CAT-4BCC51B949",
+                "CAT-95DA56E33B",
+                "CAT-87A7565E50",
+                "CAT-5C1879A33",
+                "CAT-84B951A48C",
+                "CAT-336452E66A"
+            ],
+            "book_publisher_id": "PUB-7C7132192"
+        },
+        {
+            "book_id": "BOOK-BF3B55F323",
+            "book_author_id": "AUTHOR-C3EE557CE1",
+            "book_categories_id": [
+                "CAT-77A47AE4D",
+                "CAT-C9A975510",
+                "CAT-D02A548358",
+                "CAT-032273A9A",
+                "CAT-D9A85224EC",
+                "CAT-4BCC51B949"
+            ],
+            "book_publisher_id": "PUB-7C7132192"
+        },
+        {
+            "book_id": "BOOK-3A8267BD43",
+            "book_author_id": "AUTHOR-668467264C",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-8EA09A606",
+                "CAT-B25D86A49",
+                "CAT-A8FB36E0E1",
+                "CAT-B5BB67974E",
+                "CAT-280C9B81D",
+                "CAT-AC5267E9D6",
+                "CAT-E1F5673F46",
+                "CAT-B9F596DB1"
+            ],
+            "book_publisher_id": "PUB-25C16797FB"
+        },
+        {
+            "book_id": "BOOK-F79C69DF76",
+            "book_author_id": "AUTHOR-2CF2697D86",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-62BD62D10",
+                "CAT-76AA6B7F7",
+                "CAT-B25D86A49",
+                "CAT-7E0620907D",
+                "CAT-66176920C7",
+                "CAT-B95589E2B",
+                "CAT-A4DC691898",
+                "CAT-A8FB36E0E1",
+                "CAT-3E7B88D2E",
+                "CAT-453969B676",
+                "CAT-8C1C696C0",
+                "CAT-3744694700",
+                "CAT-AC5267E9D6",
+                "CAT-FEA0828D5"
+            ],
+            "book_publisher_id": "PUB-7C7132192"
+        },
+        {
+            "book_id": "BOOK-03976380F3",
+            "book_author_id": "AUTHOR-F23B63EFDB",
+            "book_categories_id": [
+                "CAT-36492E036",
+                "CAT-122B2C736",
+                "CAT-62C234BC5A",
+                "CAT-E83F637364",
+                "CAT-B343633FEF",
+                "CAT-A5166348E0",
+                "CAT-8F2E6385CD",
+                "CAT-DF2D635C15",
+                "CAT-5927630EC2",
+                "CAT-2AC3636FC7"
+            ],
+            "book_publisher_id": "PUB-7EEF348B34"
+        },
+        {
+            "book_id": "BOOK-D1F460274B",
+            "book_author_id": "AUTHOR-1FC8607B4D",
+            "book_categories_id": [
+                "CAT-36492E036",
+                "CAT-122B2C736",
+                "CAT-62C234BC5A",
+                "CAT-AE93341605",
+                "CAT-C7BE2EA47",
+                "CAT-EC05609EB5",
+                "CAT-81BD648613",
+                "CAT-F8B3594923",
+                "CAT-B52D34F207"
+            ],
+            "book_publisher_id": "PUB-7EEF348B34"
+        },
+        {
+            "book_id": "BOOK-EC406146F2",
+            "book_author_id": "AUTHOR-9EDA6107B6",
+            "book_categories_id": [
+                "CAT-36492E036",
+                "CAT-122B2C736",
+                "CAT-4E9661AFD9",
+                "CAT-62C234BC5A",
+                "CAT-BA88615105",
+                "CAT-C7BE2EA47",
+                "CAT-66B161DB6C",
+                "CAT-DFC2616DFE",
+                "CAT-0E14618D25",
+                "CAT-3FAB616EC6",
+                "CAT-C04561C988",
+                "CAT-EAC3614F6B",
+                "CAT-6301611EA8"
+            ],
+            "book_publisher_id": "PUB-7C7132192"
+        },
+        {
+            "book_id": "BOOK-CA9272FC49",
+            "book_author_id": "AUTHOR-A54372A8FB",
+            "book_categories_id": [
+                "CAT-D99C44B162",
+                "CAT-A80E408B6",
+                "CAT-DF22446018",
+                "CAT-7E0A7256E6",
+                "CAT-209E728374",
+                "CAT-D253723129",
+                "CAT-1DB7720653",
+                "CAT-500272F7AF"
+            ],
+            "book_publisher_id": "PUB-25C16797FB"
+        },
+        {
+            "book_id": "BOOK-1CC4740DD0",
+            "book_author_id": "AUTHOR-E092748BEE",
+            "book_categories_id": [
+                "CAT-0FF6301F2",
+                "CAT-7A0B3914A",
+                "CAT-8E7F74E526",
+                "CAT-181B3148E",
+                "CAT-A05E7420AD"
+            ],
+            "book_publisher_id": "PUB-047D741704"
+        },
+        {
+            "book_id": "BOOK-F6E165CCE8",
+            "book_author_id": "AUTHOR-C31665C9D0",
+            "book_categories_id": [
+                "CAT-36492E036",
+                "CAT-122B2C736",
+                "CAT-62C234BC5A",
+                "CAT-88CE34776D"
+            ],
+            "book_publisher_id": "PUB-201665A6C7"
+        },
+        {
+            "book_id": "BOOK-FFF9689976",
+            "book_author_id": "AUTHOR-E540680192",
+            "book_categories_id": [
+                "CAT-0FF6301F2",
+                "CAT-E0195B4E0",
+                "CAT-7A0B3914A",
+                "CAT-A03930EE76",
+                "CAT-C3B73D9AC",
+                "CAT-243B68857D",
+                "CAT-A90968C6DC"
+            ],
+            "book_publisher_id": "PUB-4353689B2E"
+        },
+        {
+            "book_id": "BOOK-5D00776C4C",
+            "book_author_id": "AUTHOR-252677E0C7",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-B25D86A49",
+                "CAT-422437F73B",
+                "CAT-A8FB36E0E1",
+                "CAT-B95589E2B",
+                "CAT-F792772957",
+                "CAT-AC5267E9D6",
+                "CAT-7E54194350"
+            ],
+            "book_publisher_id": "PUB-52D9192D18"
+        },
+        {
+            "book_id": "BOOK-D38866EB4E",
+            "book_author_id": "AUTHOR-8ECA6627AB",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-62BD62D10",
+                "CAT-34251998E8",
+                "CAT-B25D86A49",
+                "CAT-7E0620907D",
+                "CAT-B84A66F87B",
+                "CAT-30D68A00E",
+                "CAT-B95589E2B",
+                "CAT-81D36639A4",
+                "CAT-D8388EF15",
+                "CAT-B28219120A"
+            ],
+            "book_publisher_id": "PUB-F00028359B"
+        },
+        {
+            "book_id": "BOOK-F68579EC78",
+            "book_author_id": "AUTHOR-D22679DC27",
+            "book_categories_id": [
+                "CAT-4DB879654B",
+                "CAT-AE3A442546",
+                "CAT-C2C1798AE8",
+                "CAT-E603791438",
+                "CAT-3BF079AEAD",
+                "CAT-44F979DCD4",
+                "CAT-1BA379D758"
+            ],
+            "book_publisher_id": "PUB-8C3940AED6"
+        },
+        {
+            "book_id": "BOOK-BBB670775C",
+            "book_author_id": "AUTHOR-59D87001CB",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-B25D86A49",
+                "CAT-B95589E2B",
+                "CAT-3E7B88D2E",
+                "CAT-53A78ACD1",
+                "CAT-8C1C696C0",
+                "CAT-FEA0828D5"
+            ],
+            "book_publisher_id": "PUB-25C16797FB"
+        },
+        {
+            "book_id": "BOOK-C5A2730881",
+            "book_author_id": "AUTHOR-4F18731794",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-8EA09A606",
+                "CAT-B25D86A49",
+                "CAT-11F973E79A",
+                "CAT-5A9A73EE96",
+                "CAT-280C9B81D",
+                "CAT-18D4737DF1",
+                "CAT-080173F830",
+                "CAT-B9F596DB1"
+            ],
+            "book_publisher_id": "PUB-360821F927"
+        },
+        {
+            "book_id": "BOOK-860382398A",
+            "book_author_id": "AUTHOR-9A238266BB",
+            "book_categories_id": [
+                "CAT-2585661E1",
+                "CAT-4C2C8F94A",
+                "CAT-62BD62D10",
+                "CAT-76AA6B7F7",
+                "CAT-B25D86A49",
+                "CAT-7E0620907D",
+                "CAT-3BC2825A32",
+                "CAT-30D68A00E",
+                "CAT-B95589E2B",
+                "CAT-96003807DC",
+                "CAT-EF9C82D4D2",
+                "CAT-D8388EF15",
+                "CAT-53A78ACD1",
+                "CAT-A06A82749C",
+                "CAT-300582C77E",
+                "CAT-1164829B87",
+                "CAT-3727827F98"
+            ],
+            "book_publisher_id": "PUB-F00028359B"
+        },
+        {
+            "book_id": "BOOK-94EB84ACDE",
+            "book_author_id": "AUTHOR-22B312DDB9",
+            "book_categories_id": [
+                "CAT-8EA09A606",
+                "CAT-280C9B81D",
+                "CAT-D58D84BF47"
+            ],
+            "book_publisher_id": "PUB-360821F927"
+        },
+        {
+            "book_id": "BOOK-93E671BD26",
+            "book_author_id": "AUTHOR-CCEA71666B",
+            "book_categories_id": [
+                "CAT-23C011389A",
+                "CAT-F32E4448B6",
+                "CAT-E38916154B",
+                "CAT-30A5717DFF",
+                "CAT-CB75432913",
+                "CAT-ACA043D157",
+                "CAT-C616486706",
+                "CAT-7D6348C058",
+                "CAT-8EAD48523C",
+                "CAT-3788717239",
+                "CAT-3944113AB1",
+                "CAT-143043F638",
+                "CAT-974C483C63",
+                "CAT-56F043F57D",
+                "CAT-B2D04865EE",
+                "CAT-940648B25C",
+                "CAT-1F7B71AEE5",
+                "CAT-2AFB710350",
+                "CAT-A26B71228B",
+                "CAT-2D6071AE40",
+                "CAT-8E5F4800DF",
+                "CAT-72E843C12C",
+                "CAT-8B007197FD"
+            ],
+            "book_publisher_id": "PUB-DAB9717F43"
+        },
+        {
+            "book_id": "BOOK-75BF7584B0",
+            "book_author_id": "AUTHOR-F261753313",
+            "book_categories_id": [
+                "CAT-36492E036",
+                "CAT-122B2C736",
+                "CAT-D1C57578FB",
+                "CAT-0A40755CC2",
+                "CAT-C7BE2EA47",
+                "CAT-239C753B17",
+                "CAT-B5CE7522A5",
+                "CAT-C6E5751297"
+            ],
+            "book_publisher_id": "PUB-E30F2F700"
+        },
+        {
+            "book_id": "BOOK-65AC78FF30",
+            "book_author_id": "AUTHOR-311378C46A",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-62BD62D10",
+                "CAT-7E0620907D"
+            ],
+            "book_publisher_id": "PUB-4FAC79F54"
+        },
+        {
+            "book_id": "BOOK-D1ED761D25",
+            "book_author_id": "AUTHOR-9CA876F46A",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-62BD62D10",
+                "CAT-7E0620907D"
+            ],
+            "book_publisher_id": "PUB-2AD976DE7D"
+        },
+        {
+            "book_id": "BOOK-969787AC8F",
+            "book_author_id": "AUTHOR-65078738AC",
+            "book_categories_id": [
+                "CAT-23C011389A",
+                "CAT-E38916154B",
+                "CAT-E42F4546EF",
+                "CAT-B6834349E2",
+                "CAT-3FA716ED05",
+                "CAT-ACA043D157",
+                "CAT-9F7C87E54F",
+                "CAT-744F4556A8",
+                "CAT-DA2987B450",
+                "CAT-963E876FD4",
+                "CAT-CE3B43ADDC",
+                "CAT-FBE887EE6B",
+                "CAT-2D6071AE40",
+                "CAT-AA8E43FE2F",
+                "CAT-D46787C9F9",
+                "CAT-819587865A"
+            ],
+            "book_publisher_id": "PUB-A88512E04E"
+        },
+        {
+            "book_id": "BOOK-EE378944DA",
+            "book_author_id": "AUTHOR-95CD898FFB",
+            "book_categories_id": [
+                "CAT-8EA09A606",
+                "CAT-280C9B81D",
+                "CAT-9DC189AB1A"
+            ],
+            "book_publisher_id": "PUB-A9A1890201"
+        },
+        {
+            "book_id": "BOOK-A5BE80F9D0",
+            "book_author_id": "AUTHOR-CBA580AB63",
+            "book_categories_id": [
+                "CAT-23C011389A",
+                "CAT-485F80C4A7",
+                "CAT-7052804CD4",
+                "CAT-B6834349E2",
+                "CAT-ACA043D157",
+                "CAT-143043F638",
+                "CAT-CE3B43ADDC",
+                "CAT-2D6071AE40",
+                "CAT-8E5F4800DF"
+            ],
+            "book_publisher_id": "PUB-A88512E04E"
+        },
+        {
+            "book_id": "BOOK-7799835F1E",
+            "book_author_id": "AUTHOR-01FC834493",
+            "book_categories_id": [
+                "CAT-23C011389A",
+                "CAT-F32E4448B6",
+                "CAT-B6834349E2",
+                "CAT-4D0C837AA5",
+                "CAT-F3C283BB11",
+                "CAT-CE9B83D969",
+                "CAT-181E8389F0",
+                "CAT-CE3B43ADDC",
+                "CAT-A589838D84",
+                "CAT-5B3783D7C9"
+            ],
+            "book_publisher_id": "PUB-4191830C6C"
+        },
+        {
+            "book_id": "BOOK-5B8681E760",
+            "book_author_id": "AUTHOR-81A381758A",
+            "book_categories_id": [
+                "CAT-A5D78166A7",
+                "CAT-A80E408B6",
+                "CAT-4A1F817CC8",
+                "CAT-C71A818FF4",
+                "CAT-8E5D818000",
+                "CAT-667481E9DF",
+                "CAT-A60D81A016",
+                "CAT-78828135C8",
+                "CAT-438A8170DB"
+            ],
+            "book_publisher_id": "PUB-6E438872A"
+        },
+        {
+            "book_id": "BOOK-202692B289",
+            "book_author_id": "AUTHOR-503292FB0D",
+            "book_categories_id": [
+                "CAT-23C011389A",
+                "CAT-E38916154B",
+                "CAT-CB75432913",
+                "CAT-ACA043D157",
+                "CAT-048C4309E6",
+                "CAT-143043F638",
+                "CAT-B6834349E2",
+                "CAT-2D6071AE40",
+                "CAT-2F4592CA39",
+                "CAT-72E843C12C",
+                "CAT-AA8E43FE2F",
+                "CAT-925E926A03"
+            ],
+            "book_publisher_id": "PUB-A88512E04E"
+        },
+        {
+            "book_id": "BOOK-DB3885D26B",
+            "book_author_id": "AUTHOR-6DF985238E",
+            "book_categories_id": [
+                "CAT-0FF6301F2",
+                "CAT-4C2C8F94A",
+                "CAT-B25D86A49",
+                "CAT-7A0B3914A",
+                "CAT-A8FB36E0E1",
+                "CAT-8E7F74E526",
+                "CAT-552C8552AA",
+                "CAT-6C1985D07C",
+                "CAT-8E338546DF"
+            ],
+            "book_publisher_id": "PUB-AC298509B3"
+        },
+        {
+            "book_id": "BOOK-1E8688D04E",
+            "book_author_id": "AUTHOR-530A8841E2",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-62BD62D10",
+                "CAT-34C638C2A1",
+                "CAT-A92288E788",
+                "CAT-B25D86A49",
+                "CAT-7E0620907D",
+                "CAT-8FCB887364",
+                "CAT-66E388E825",
+                "CAT-28A28862B2",
+                "CAT-B95589E2B",
+                "CAT-A8FB36E0E1",
+                "CAT-69248872A2",
+                "CAT-53A78ACD1",
+                "CAT-713188489C"
+            ],
+            "book_publisher_id": "PUB-7C7132192"
+        },
+        {
+            "book_id": "BOOK-65FA945074",
+            "book_author_id": "AUTHOR-9B5994592B",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-62BD62D10",
+                "CAT-2585661E1",
+                "CAT-76AA6B7F7",
+                "CAT-34251998E8",
+                "CAT-B25D86A49",
+                "CAT-66176920C7",
+                "CAT-1C7939C82B",
+                "CAT-E94894595C",
+                "CAT-A8FB36E0E1",
+                "CAT-453969B676",
+                "CAT-8A1994DCF4",
+                "CAT-531294A620",
+                "CAT-E2EC94CFC2",
+                "CAT-D75963C65"
+            ],
+            "book_publisher_id": "PUB-48A9442AB7"
+        },
+        {
+            "book_id": "BOOK-95FE97E2D8",
+            "book_author_id": "AUTHOR-4FE59757EB",
+            "book_categories_id": [
+                "CAT-0FF6301F2",
+                "CAT-EF4597F94F",
+                "CAT-AEB59745DA",
+                "CAT-25B8977BB5",
+                "CAT-827397C315",
+                "CAT-5B3C9789C6",
+                "CAT-018B976533",
+                "CAT-6A1E9733FB"
+            ],
+            "book_publisher_id": "PUB-F00028359B"
+        },
+        {
+            "book_id": "BOOK-611D90792C",
+            "book_author_id": "AUTHOR-B902905D23",
+            "book_categories_id": [
+                "CAT-23C011389A",
+                "CAT-9BCC90C554",
+                "CAT-C616486706",
+                "CAT-B6834349E2",
+                "CAT-3944113AB1",
+                "CAT-2CD3115069",
+                "CAT-1FEB90CF0D",
+                "CAT-3C3090AD77",
+                "CAT-CE3B43ADDC",
+                "CAT-8DEE110428",
+                "CAT-8B4490F8D4",
+                "CAT-A0084381E1"
+            ],
+            "book_publisher_id": "PUB-BE85903971"
+        },
+        {
+            "book_id": "BOOK-22F4860CB9",
+            "book_author_id": "AUTHOR-3C0686829F",
+            "book_categories_id": [
+                "CAT-5D6246C4FA",
+                "CAT-9C454FF7B",
+                "CAT-271A469C2D",
+                "CAT-22518622D9",
+                "CAT-E8A9868FC8",
+                "CAT-9A4386F1CB",
+                "CAT-12AE86CB00",
+                "CAT-FA858669AE",
+                "CAT-EB3986F76F",
+                "CAT-25508615FA",
+                "CAT-A51686D22C",
+                "CAT-294786AE08",
+                "CAT-CCA686F6DB",
+                "CAT-AD9E86B1E9",
+                "CAT-A2B5862BFF",
+                "CAT-DEDE86B52A",
+                "CAT-25D5861DE5",
+                "CAT-ABD1867A91",
+                "CAT-E75F860688",
+                "CAT-3BC5867720"
+            ],
+            "book_publisher_id": "PUB-3A4B2072F9"
+        },
+        {
+            "book_id": "BOOK-D8F393CFA7",
+            "book_author_id": "AUTHOR-EE6A937420",
+            "book_categories_id": [
+                "CAT-E0195B4E0",
+                "CAT-A03930EE76",
+                "CAT-913630C4D8",
+                "CAT-16F693A8D1",
+                "CAT-11A193853B"
+            ],
+            "book_publisher_id": "PUB-3A4B2072F9"
+        },
+        {
+            "book_id": "BOOK-E0A0999091",
+            "book_author_id": "AUTHOR-23E9997BDF",
+            "book_categories_id": [
+                "CAT-3492991E69",
+                "CAT-23C011389A",
+                "CAT-A80E408B6",
+                "CAT-2585661E1",
+                "CAT-B6834349E2",
+                "CAT-C616486706",
+                "CAT-5C11990CDE",
+                "CAT-4C2499E43F",
+                "CAT-C92899071F",
+                "CAT-BB1299CB88",
+                "CAT-848A99C05E",
+                "CAT-91FD996835",
+                "CAT-245699E210",
+                "CAT-DCD49962B6",
+                "CAT-EEC89933F5",
+                "CAT-A37E99F62A",
+                "CAT-C2C2993526",
+                "CAT-D75963C65"
+            ],
+            "book_publisher_id": "PUB-6EF1992B79"
+        },
+        {
+            "book_id": "BOOK-C15610287A3",
+            "book_author_id": "AUTHOR-0F5410275E4",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-62BD62D10",
+                "CAT-2585661E1",
+                "CAT-8EA09A606",
+                "CAT-0ADD102CA14",
+                "CAT-76AA6B7F7",
+                "CAT-66176920C7",
+                "CAT-A68D312384",
+                "CAT-7E971021595",
+                "CAT-3BA2102AB97",
+                "CAT-BF18102614B",
+                "CAT-453969B676",
+                "CAT-737210238B8",
+                "CAT-DCA4102636A",
+                "CAT-65221027D2F",
+                "CAT-70861024389"
+            ],
+            "book_publisher_id": "PUB-CF8E102CF27"
+        },
+        {
+            "book_id": "BOOK-9CDF95ED7E",
+            "book_author_id": "AUTHOR-644640AAF9",
+            "book_categories_id": [
+                "CAT-2585661E1",
+                "CAT-8EA09A606",
+                "CAT-280C9B81D",
+                "CAT-658D14CA33",
+                "CAT-9E8E95D2FC",
+                "CAT-1BC5951AED",
+                "CAT-D75963C65"
+            ],
+            "book_publisher_id": "PUB-8C3940AED6"
+        },
+        {
+            "book_id": "BOOK-0DA7919C59",
+            "book_author_id": "AUTHOR-F52E916F25",
+            "book_categories_id": [
+                "CAT-9AD9917F68",
+                "CAT-0ADD102CA14",
+                "CAT-C5DE911E4A",
+                "CAT-88169117EC",
+                "CAT-C51491B207",
+                "CAT-BA1091D9F6",
+                "CAT-099191D968"
+            ],
+            "book_publisher_id": "PUB-8822101EDC"
+        },
+        {
+            "book_id": "BOOK-59B398D05D",
+            "book_author_id": "AUTHOR-40BA9864A6",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-1C7939C82B",
+                "CAT-EA24983E88"
+            ],
+            "book_publisher_id": "PUB-48A9442AB7"
+        },
+        {
+            "book_id": "BOOK-925C1047453",
+            "book_author_id": "AUTHOR-7C8E1046AE3",
+            "book_categories_id": [
+                "CAT-77A47AE4D",
+                "CAT-334B533768",
+                "CAT-C9A975510",
+                "CAT-480D520C23",
+                "CAT-D02A548358",
+                "CAT-394E1048E14",
+                "CAT-E62E1047030",
+                "CAT-13A8104B4AF",
+                "CAT-31EB1040573"
+            ],
+            "book_publisher_id": "PUB-FF031046489"
+        },
+        {
+            "book_id": "BOOK-03A9107351A",
+            "book_author_id": "AUTHOR-462B1071CC5",
+            "book_categories_id": [
+                "CAT-2585661E1",
+                "CAT-0FF6301F2",
+                "CAT-E0195B4E0",
+                "CAT-7A0B3914A",
+                "CAT-A03930EE76",
+                "CAT-19D910793B2",
+                "CAT-A90968C6DC",
+                "CAT-132E10728B1",
+                "CAT-02AE107A99C"
+            ],
+            "book_publisher_id": "PUB-4353689B2E"
+        },
+        {
+            "book_id": "BOOK-1085967A9C",
+            "book_author_id": "AUTHOR-08D9961CA0",
+            "book_categories_id": [
+                "CAT-2585661E1",
+                "CAT-36492E036",
+                "CAT-122B2C736",
+                "CAT-62C234BC5A",
+                "CAT-AE93341605",
+                "CAT-C7BE2EA47",
+                "CAT-88CE34776D",
+                "CAT-E85B5972B2",
+                "CAT-F8B3594923",
+                "CAT-989E96EF32",
+                "CAT-D75963C65",
+                "CAT-A23E968BCA"
+            ],
+            "book_publisher_id": "PUB-7EEF348B34"
+        },
+        {
+            "book_id": "BOOK-053410046A1",
+            "book_author_id": "AUTHOR-2A831009575",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-0FF6301F2",
+                "CAT-DB6A151E1B",
+                "CAT-B25D86A49",
+                "CAT-5F4B1005EDB",
+                "CAT-AEB59745DA",
+                "CAT-25B8977BB5",
+                "CAT-7C111004F4A",
+                "CAT-C3858570D",
+                "CAT-6D05100653A",
+                "CAT-28D01007CF6",
+                "CAT-018B976533",
+                "CAT-5586100498D",
+                "CAT-15921004EAA",
+                "CAT-F0B61006979",
+                "CAT-1BB91004651"
+            ],
+            "book_publisher_id": "PUB-D65B116D36"
+        },
+        {
+            "book_id": "BOOK-6C86103E4A3",
+            "book_author_id": "AUTHOR-0C951032764",
+            "book_categories_id": [
+                "CAT-2585661E1",
+                "CAT-5D6246C4FA",
+                "CAT-A8D91036F16",
+                "CAT-416D1032EC4",
+                "CAT-FD9C103757F",
+                "CAT-1F4410341A9",
+                "CAT-8583477E83",
+                "CAT-18B5103A9D3",
+                "CAT-9791103780E",
+                "CAT-E687103B428",
+                "CAT-6E12103BBE3",
+                "CAT-59A8103167D",
+                "CAT-AD6B1035166",
+                "CAT-8B541034B58",
+                "CAT-B7F31036019",
+                "CAT-CF1E103F2D4",
+                "CAT-10441038041",
+                "CAT-9D3E103BB20",
+                "CAT-72D7103A2D8",
+                "CAT-775A103C486",
+                "CAT-4A9E10375F1",
+                "CAT-F589103CEE0"
+            ],
+            "book_publisher_id": "PUB-629D94F0D"
+        },
+        {
+            "book_id": "BOOK-ABA210972C6",
+            "book_author_id": "AUTHOR-9A36109769E",
+            "book_categories_id": [
+                "CAT-E0195B4E0",
+                "CAT-A03930EE76",
+                "CAT-677050CEF",
+                "CAT-1AFA57589",
+                "CAT-B2C81090222",
+                "CAT-735D29B8BD",
+                "CAT-855F1091F1A"
+            ],
+            "book_publisher_id": "PUB-F00028359B"
+        },
+        {
+            "book_id": "BOOK-A1C61127CF4",
+            "book_author_id": "AUTHOR-0D771122503",
+            "book_categories_id": [
+                "CAT-36492E036",
+                "CAT-122B2C736",
+                "CAT-62C234BC5A",
+                "CAT-0FD8112E0E9",
+                "CAT-C7BE2EA47",
+                "CAT-88CE34776D",
+                "CAT-C85A112BC0A",
+                "CAT-F8B3594923"
+            ],
+            "book_publisher_id": "PUB-C9FD520881"
+        },
+        {
+            "book_id": "BOOK-AEE810892A3",
+            "book_author_id": "AUTHOR-22B312DDB9",
+            "book_categories_id": [
+                "CAT-8EA09A606",
+                "CAT-280C9B81D",
+                "CAT-D58D84BF47"
+            ],
+            "book_publisher_id": "PUB-360821F927"
+        },
+        {
+            "book_id": "BOOK-68D5101C4D3",
+            "book_author_id": "AUTHOR-59F1101F2A6",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-62BD62D10",
+                "CAT-0FF6301F2",
+                "CAT-76AA6B7F7",
+                "CAT-B25D86A49",
+                "CAT-7E0620907D",
+                "CAT-8AC1101FAD7",
+                "CAT-76941013515",
+                "CAT-8FAA1013CE3",
+                "CAT-B5BB67974E",
+                "CAT-C3858570D",
+                "CAT-E4F3101B08B",
+                "CAT-6294101E84D",
+                "CAT-A4BA101BFF4",
+                "CAT-E1F5673F46",
+                "CAT-1BB91004651"
+            ],
+            "book_publisher_id": "PUB-F3BD101A7B7"
+        },
+        {
+            "book_id": "BOOK-19E0105F1E7",
+            "book_author_id": "AUTHOR-C1C0105DD34",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-2585661E1",
+                "CAT-B25D86A49",
+                "CAT-DF1A6E130",
+                "CAT-B95589E2B",
+                "CAT-30D68A00E",
+                "CAT-D4181052A88",
+                "CAT-2F7610525B8",
+                "CAT-8C1C696C0",
+                "CAT-143167E9F",
+                "CAT-2EB61051F94",
+                "CAT-E22A105554F"
+            ],
+            "book_publisher_id": "PUB-7C7132192"
+        },
+        {
+            "book_id": "BOOK-5662117713B",
+            "book_author_id": "AUTHOR-9DF61174EE6",
+            "book_categories_id": [
+                "CAT-0FF6301F2",
+                "CAT-4C2C8F94A",
+                "CAT-8EA09A606",
+                "CAT-7A0B3914A",
+                "CAT-1C7939C82B",
+                "CAT-280C9B81D",
+                "CAT-C3B73D9AC",
+                "CAT-2B6711781BA",
+                "CAT-AE731175C35"
+            ],
+            "book_publisher_id": "PUB-5EA1391955"
+        },
+        {
+            "book_id": "BOOK-6DB51064C26",
+            "book_author_id": "AUTHOR-C52957385E",
+            "book_categories_id": [
+                "CAT-334B533768",
+                "CAT-77A47AE4D",
+                "CAT-C9A975510",
+                "CAT-4BCC51B949",
+                "CAT-14651069221",
+                "CAT-FB7C106571B",
+                "CAT-4ABC10682E4",
+                "CAT-B99B106BBFD",
+                "CAT-8AD7106DE86",
+                "CAT-7052106129C"
+            ],
+            "book_publisher_id": "PUB-C9FD520881"
+        },
+        {
+            "book_id": "BOOK-E38E113B2C9",
+            "book_author_id": "AUTHOR-50EB11314EB",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-62BD62D10",
+                "CAT-B25D86A49",
+                "CAT-34251998E8",
+                "CAT-7E0620907D",
+                "CAT-B5BB67974E",
+                "CAT-B95589E2B",
+                "CAT-46531135B76",
+                "CAT-3E7B88D2E",
+                "CAT-737B113B4BC",
+                "CAT-8C1C696C0",
+                "CAT-18C811302DE",
+                "CAT-FEA0828D5"
+            ],
+            "book_publisher_id": "PUB-7C7132192"
+        },
+        {
+            "book_id": "BOOK-F411110A0E7",
+            "book_author_id": "AUTHOR-43AB110BABB",
+            "book_categories_id": [
+                "CAT-0FF6301F2",
+                "CAT-7A0B3914A",
+                "CAT-8E7F74E526"
+            ],
+            "book_publisher_id": "PUB-70F2110B8D9"
+        },
+        {
+            "book_id": "BOOK-DA761221DC0",
+            "book_author_id": "AUTHOR-6A471229F2E",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-8EA09A606",
+                "CAT-1C7939C82B",
+                "CAT-280C9B81D",
+                "CAT-2B6711781BA",
+                "CAT-D58D84BF47",
+                "CAT-AE731175C35"
+            ],
+            "book_publisher_id": "PUB-3D48244620"
+        },
+        {
+            "book_id": "BOOK-8B0011126CD",
+            "book_author_id": "AUTHOR-CF8C111F68C",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-8EA09A606",
+                "CAT-B25D86A49",
+                "CAT-5E663674BD",
+                "CAT-1C7939C82B",
+                "CAT-280C9B81D",
+                "CAT-5B4E3682A4",
+                "CAT-2B6711781BA",
+                "CAT-AE731175C35"
+            ],
+            "book_publisher_id": "PUB-541114D2C3"
+        },
+        {
+            "book_id": "BOOK-CACE115F452",
+            "book_author_id": "AUTHOR-BD0C115E10C",
+            "book_categories_id": [
+                "CAT-5EC01156628",
+                "CAT-96101155495",
+                "CAT-2A29115EF64",
+                "CAT-6E1B115E910",
+                "CAT-825B115761A",
+                "CAT-B625115CFEA",
+                "CAT-106F115975B"
+            ],
+            "book_publisher_id": null
+        },
+        {
+            "book_id": "BOOK-9FCC120BAC4",
+            "book_author_id": "AUTHOR-B9B11203A6F",
+            "book_categories_id": [
+                "CAT-2585661E1",
+                "CAT-4C2C8F94A",
+                "CAT-1C7939C82B",
+                "CAT-A01D120AD08",
+                "CAT-DC5412043AD"
+            ],
+            "book_publisher_id": "PUB-3A4B2072F9"
+        },
+        {
+            "book_id": "BOOK-B5D4116F557",
+            "book_author_id": "AUTHOR-CE1E1162689",
+            "book_categories_id": [
+                "CAT-8EA09A606",
+                "CAT-2585661E1",
+                "CAT-280C9B81D",
+                "CAT-D58D84BF47",
+                "CAT-D75963C65"
+            ],
+            "book_publisher_id": "PUB-C3891169CEE"
+        },
+        {
+            "book_id": "BOOK-54F1119F000",
+            "book_author_id": "AUTHOR-B1D4119B772",
+            "book_categories_id": [
+                "CAT-0FF6301F2",
+                "CAT-4C2C8F94A",
+                "CAT-B25D86A49",
+                "CAT-7A0B3914A",
+                "CAT-A8FB36E0E1",
+                "CAT-8E7F74E526",
+                "CAT-320336AFD3"
+            ],
+            "book_publisher_id": "PUB-5EA1391955"
+        },
+        {
+            "book_id": "BOOK-6081118FBD3",
+            "book_author_id": "AUTHOR-A42B1186E72",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-8EA09A606",
+                "CAT-34251998E8",
+                "CAT-1C7939C82B",
+                "CAT-0470118FD8E",
+                "CAT-280C9B81D",
+                "CAT-2B6711781BA",
+                "CAT-8C811186C54",
+                "CAT-AE731175C35",
+                "CAT-D8F811897A9"
+            ],
+            "book_publisher_id": "PUB-3A4B2072F9"
+        },
+        {
+            "book_id": "BOOK-D265123DC4B",
+            "book_author_id": "AUTHOR-63621233FB8",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-8EA09A606",
+                "CAT-B25D86A49",
+                "CAT-1C7939C82B",
+                "CAT-A8FB36E0E1",
+                "CAT-280C9B81D",
+                "CAT-2B6711781BA",
+                "CAT-6C1985D07C",
+                "CAT-8ED0123B49C"
+            ],
+            "book_publisher_id": "PUB-3A4B2072F9"
+        },
+        {
+            "book_id": "BOOK-A369126DDAF",
+            "book_author_id": "AUTHOR-4FE59757EB",
+            "book_categories_id": [
+                "CAT-2585661E1",
+                "CAT-4C2C8F94A",
+                "CAT-0FF6301F2",
+                "CAT-B25D86A49",
+                "CAT-EF4597F94F",
+                "CAT-827397C315",
+                "CAT-D632126E88A",
+                "CAT-6A1E9733FB",
+                "CAT-D070126AB99",
+                "CAT-2AD2126A48B",
+                "CAT-953312656E3",
+                "CAT-15EE1265CF1",
+                "CAT-79F9126FFC6"
+            ],
+            "book_publisher_id": "PUB-F00028359B"
+        },
+        {
+            "book_id": "BOOK-406D128A03B",
+            "book_author_id": "AUTHOR-EC89128E47C",
+            "book_categories_id": [
+                "CAT-0FF6301F2",
+                "CAT-EF4597F94F",
+                "CAT-D632126E88A"
+            ],
+            "book_publisher_id": "PUB-3D48244620"
+        },
+        {
+            "book_id": "BOOK-9CAC12707C9",
+            "book_author_id": "AUTHOR-4FE59757EB",
+            "book_categories_id": [
+                "CAT-2585661E1",
+                "CAT-0FF6301F2",
+                "CAT-4C2C8F94A",
+                "CAT-8EA09A606",
+                "CAT-B25D86A49",
+                "CAT-827397C315",
+                "CAT-11F973E79A",
+                "CAT-280C9B81D",
+                "CAT-052D127F4DF",
+                "CAT-B8FA127F8AA",
+                "CAT-7F6B127FED7",
+                "CAT-46BA1276619"
+            ],
+            "book_publisher_id": "PUB-F00028359B"
+        },
+        {
+            "book_id": "BOOK-67F61219269",
+            "book_author_id": "AUTHOR-2A831009575",
+            "book_categories_id": [
+                "CAT-4C2C8F94A",
+                "CAT-B25D86A49",
+                "CAT-A8FB36E0E1",
+                "CAT-713188489C"
+            ],
+            "book_publisher_id": "PUB-D65B116D36"
+        },
+        {
+            "book_id": "BOOK-A9451255FC9",
+            "book_author_id": "AUTHOR-5ADF12558C2",
+            "book_categories_id": [
+                "CAT-2585661E1",
+                "CAT-36492E036",
+                "CAT-122B2C736",
+                "CAT-62C234BC5A",
+                "CAT-AE93341605",
+                "CAT-EF7C328A08",
+                "CAT-88CE34776D",
+                "CAT-E85B5972B2",
+                "CAT-D39B32B1E5",
+                "CAT-6624125DD4F",
+                "CAT-6B28125C2F7",
+                "CAT-989E96EF32",
+                "CAT-A23E968BCA"
+            ],
+            "book_publisher_id": "PUB-D3A8125E351"
+        },
+        {
+            "book_id": "BOOK-F24513353C8",
+            "book_author_id": "AUTHOR-A465133D450",
+            "book_categories_id": [
+                "CAT-2585661E1",
+                "CAT-0FF6301F2",
+                "CAT-8FAA1013CE3",
+                "CAT-EF4597F94F",
+                "CAT-AEB59745DA",
+                "CAT-A4BA101BFF4",
+                "CAT-D632126E88A",
+                "CAT-82B9133FD5F",
+                "CAT-1A3613381AA",
+                "CAT-76A513301D2"
+            ],
+            "book_publisher_id": "PUB-4353689B2E"
+        }
+    ]
+}
