@@ -1,0 +1,8 @@
+{
+    "name": "Barnes and Nobles InActive List",
+    "description": "Contains inactive cached library links that contains no any results when open",
+    "date_updated": "",
+    "main_source": "https://www.barnesandnoble.com/",
+    "total_subjects": 0,
+    "subjects": []
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Barnes and Nobles Active List",
+    "description": "Contains active cached library links that contains alot of results when open",
+    "date_updated": "2025-09-28",
+    "main_source": "https://www.barnesandnoble.com/",
+    "total_subjects": 0,
+    "subjects": []
+}
