@@ -73,7 +73,7 @@ class OpenLibrary:
 
             # * GRABS SUBJECT LINKS AS A STARTER
             page = await browser_context.new_page()
-            await self.helper.grab_subject_links(page, goto_link = f"{self.parent.target_link}/subjects/")
+            await self.helper.grab_subject_links(page, goto_link = f"{self.target_link}/subjects/")
             page.close()
 
         # * GRABS SUBJECT'S BOOK LINKS
