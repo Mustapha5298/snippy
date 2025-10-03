@@ -14,3 +14,4 @@ This folder contains the `traffic cops` 🚦 of Snippy.
 
 from .precautions import Precaution
 from .openlibrary import OpenLibrary
+from .barnesnobles import BarnesNobles
