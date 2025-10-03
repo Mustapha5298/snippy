@@ -12,9 +12,10 @@ This folder contains the `traffic cops` 🚦 of Snippy.
 `🍏 This can stop you for number of scrapes per day.`
 """
 
+from .control_barnesnobles import BarnesNoblesController
 from .control_openlibrary import OpenLibraryController
 from .control_precaution import PrecautionController
 
 __all__ = [
-    "PrecautionController", "OpenLibraryController"
+    "PrecautionController", "OpenLibraryController", "BarnesNoblesController"
 ]
